@@ -1,5 +1,5 @@
-- 👋 Hi there, I’m @IT21018596
-- Github username: IT21018596
+- 👋 Hi there, I’m Sahan Thilakaratne
+- Github username: Sahan Thilakaratne
 - My name: Sahan Pradeeptha Thilakaratne 
 - 🌱I'm a third year SLIIT undergraduate
 
